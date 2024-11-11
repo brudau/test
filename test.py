@@ -10,5 +10,5 @@ from utils.multipli import *
 table(3, 20)
 racine(9)
 
-
+#modif
 os.system("pause")
